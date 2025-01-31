@@ -1,7 +1,7 @@
 
 //basic array program
 const username = ["shruthi", " test" , "john"]
-console.log("Original array is "+username)
+console.log("Original array is test "+username)
 console.log("array length is " + username.length)
 
 //accessing array element
