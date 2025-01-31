@@ -5,7 +5,7 @@ console.log("Original array is test "+username)
 console.log("array length is " + username.length)
 
 //accessing array element
-console.log("printing array index 1" + username[1])
+console.log("printing array index 1test" + username[1])
 
 //adding new element to an array which autimatically returns lenght of the array
 console.log("adding new element to the array which returns length automatically" + username.push("suvarna"))
